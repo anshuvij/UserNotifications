@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:UserNotifications.xcodeproj">
+      location = "self:/Volumes/Untitled/Udemy-iOSCourse-Apps/UserNotifications/LocalUserNoti.xcodeproj">
    </FileRef>
 </Workspace>
